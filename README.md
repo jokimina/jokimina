@@ -4,4 +4,4 @@ Keen to learn and adapt to various new technologies and new environments, eager 
 
 Skills: Kubernetes / Go / Java / PHP / Python / React / Next.js / Flutter / IOS
 
-📫 How to reach me: xiaodong.fun@gmail.com 
+📫 xiaodong.fun@gmail.com 
